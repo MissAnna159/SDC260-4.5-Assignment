@@ -9,7 +9,7 @@
 ========================================= */
 
 // STEP 3
-const defaultProducts = [{
+const product-grid = [{
 		id: 1,
 		name: "Aurora Vase",
 		price: 95,
