@@ -9,7 +9,7 @@
 ========================================= */
 
 // STEP 3
-const product-grid = [{
+const defaultProducts = [{
 		id: 1,
 		name: "Aurora Vase",
 		price: 95,
@@ -88,7 +88,9 @@ const product-grid = [{
 ========================================= */
 
 // STEP 4
-
+let products = JSON.parse(localStorage.getItem("products")) || defaultProducts;
+let cart = JSON.parse(localStorage.getItem("cart")) || [];
+let cartEndTime = localStorage.getItem("cartEndTime") || null;
 /* =========================================
     DOM REFERENCES
 ========================================= */
