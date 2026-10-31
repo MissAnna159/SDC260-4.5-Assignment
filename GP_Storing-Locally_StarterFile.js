@@ -75,11 +75,11 @@ const defaultProducts = [{
 	}
 	{
 		id: 9,
-		name: "Nebula Orb",
-		price: 140,
-		stock: 0,
-		image: "images/NebulaOrb.png",
-		description: "Galaxy-inspired decorative glass orb."
+		name: "Rose Quartz",
+		price: 50,
+		stock: 9,
+		image: "images/RoseQuartz.png",
+		description: "."
 	}
 ];
 
