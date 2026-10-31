@@ -14,7 +14,7 @@ const defaultProducts = [{
 		name: "Aurora Vase",
 		price: 95,
 		stock: 4,
-		image: "images/AuroraVase.png",
+		image: "AuroraVase.png",
 		description: "Hand-blown glass vase with swirling aurora colors."
 	},
 	{
@@ -22,7 +22,7 @@ const defaultProducts = [{
 		name: "Ember Bowl",
 		price: 75,
 		stock: 3,
-		image: "images/EmberBowl.png",
+		image: "EmberBowl.png",
 		description: "Decorative fire-inspired centerpiece bowl."
 	},
 	{
@@ -30,7 +30,7 @@ const defaultProducts = [{
 		name: "Crystal Wave",
 		price: 120,
 		stock: 2,
-		image: "images/CrystalWave.png",
+		image: "CrystalWave.png",
 		description: "Ocean-inspired sculpture with flowing glass curves."
 	},
 	{
@@ -38,7 +38,7 @@ const defaultProducts = [{
 		name: "Solar Lantern",
 		price: 60,
 		stock: 5,
-		image: "images/SolarLantern.png",
+		image: "SolarLantern.png",
 		description: "Handcrafted lantern with warm glowing tones."
 	},
 	{
@@ -46,7 +46,7 @@ const defaultProducts = [{
 		name: "Frost Pendant",
 		price: 45,
 		stock: 1,
-		image: "images/FrostPendant.png",
+		image: "FrostPendant.png",
 		description: "Elegant frozen-glass pendant artwork."
 	},
 	{
@@ -54,7 +54,7 @@ const defaultProducts = [{
 		name: "Nebula Orb",
 		price: 140,
 		stock: 0,
-		image: "images/NebulaOrb.png",
+		image: "NebulaOrb.png",
 		description: "Galaxy-inspired decorative glass orb."
 	}
 	{
@@ -62,7 +62,7 @@ const defaultProducts = [{
 		name: "Lepidolite Bracelet",
 		price: 80,
 		stock: 10,
-		image: "images/Bracelet.png",
+		image: "Bracelet.png",
 		description: "Stone of peace."
 	}
 	{
@@ -70,7 +70,7 @@ const defaultProducts = [{
 		name: "Selenite Tower",
 		price: 50,
 		stock: 1,
-		image: "images/SeleniteTower.png",
+		image: "SeleniteTower.png",
 		description: "."
 	}
 	{
@@ -78,7 +78,7 @@ const defaultProducts = [{
 		name: "Rose Quartz",
 		price: 50,
 		stock: 9,
-		image: "images/RoseQuartz.png",
+		image: "RoseQuartz.png",
 		description: "."
 	}
 ];
