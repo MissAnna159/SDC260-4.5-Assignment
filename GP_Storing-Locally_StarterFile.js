@@ -56,7 +56,7 @@ const defaultProducts = [{
 		stock: 0,
 		image: "NebulaOrb.png",
 		description: "Galaxy-inspired decorative glass orb."
-	}
+	},
 	{
 		id: 7,
 		name: "Lepidolite Bracelet",
@@ -64,7 +64,7 @@ const defaultProducts = [{
 		stock: 10,
 		image: "Bracelet.png",
 		description: "Stone of peace."
-	}
+	},
 	{
 		id: 8,
 		name: "Selenite Tower",
@@ -72,7 +72,7 @@ const defaultProducts = [{
 		stock: 1,
 		image: "SeleniteTower.png",
 		description: "."
-	}
+	},
 	{
 		id: 9,
 		name: "Rose Quartz",
@@ -80,7 +80,7 @@ const defaultProducts = [{
 		stock: 9,
 		image: "RoseQuartz.png",
 		description: "."
-	}
+	},
 ];
 
 /* =========================================
