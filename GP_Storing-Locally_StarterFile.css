@@ -94,7 +94,7 @@ nav h1 {
 
 .hero {
     height: 60vh;
-    background-image: url("images/glassworks.png");
+    background-image: url("glassworks.png");
     background-size: cover;
     background-position: center;
     display: flex;
